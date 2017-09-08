@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RestaurantOrderForm</string>
+    <string name="rest_name">Star Chicken</string>
+    <string name="btn_order_complete">Order Complete</string>
+
+    <string name="pay_heading">Pay Using:</string>
+    <string name="rad_option_1">Card</string>
+    <string name="rad_option_2">Cash</string>
+
+    <string-array name="items">
+        <item>Tahini Roasted Chicken</item>
+        <item>Arroz con Pollo With Apples</item>
+        <item>Chicken Marsala</item>
+        <item>Chicken Sandwiches With Melted Cheese</item>
+        <item>Chicken Stir-Fry</item>
+        <item>Chicken Stroganoff</item>
+        <item>Chicken With Parmesan, Garlic, and Herb Crust</item>
+        <item>Coconut Chicken and Rice</item>
+        <item>Curried Chicken With Pears</item>
+        <item>Garlic Roast Chicken</item>
+        <item>Grilled Chicken Parmesan</item>
+        <item>Individual Chicken Potpies</item>
+        <item>Mediterranean Chicken</item>
+        <item>Quick Chicken Curry</item>
+        <item>Roast Chicken With Olives, Garlic, and Thyme</item>
+        <item>Rosemary-Garlic Chicken</item>
+        <item>Satay Chicken Stir-Fry With Snow Peas and Cilantro</item>
+        <item>Pan-Roasted Chicken With Lemon-Garlic Green Beans (above)</item>
+        <item>Sautéed Chicken With Sweet Potatoes and Pears</item>
+        <item>Slow-Cooker Chicken With Bacon, Mushrooms, and Onions</item>
+        <item>Southern Indian Chicken Curry</item>
+    </string-array>
+</resources>

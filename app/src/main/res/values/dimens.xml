@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="big_heading">25sp</dimen>
+    <dimen name="small_heading">20sp</dimen>
+    <dimen name="checkbox">40dp</dimen>
+</resources>
